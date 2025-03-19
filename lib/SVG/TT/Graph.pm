@@ -6,7 +6,7 @@ use Template;
 use POSIX;
 require 5.6.1;
 
-our $VERSION = '0.26';
+our $VERSION = '1.04';
 our $AUTOLOAD;
 our $TEMPLATE_FH;
 
